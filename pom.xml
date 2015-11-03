@@ -20,4 +20,5 @@
             <url>http://localhost/nexus/content/repositories/snapshots/</url>
         </snapshotRepository>
     </distributionManagement>
+
 </project>
